@@ -23,7 +23,7 @@ The Password Generator is an application that enables employees to generate secu
 4. Enter information as prompted.
 5. View your secure password.
 
-Site: 
+Site: https://g6-2flyy.github.io/empl-password-generator/
   
   ![alt text](./images/password_generator_screenshot.png)
  
