@@ -9,7 +9,7 @@ The Password Generator is an application that enables employees to generate secu
 - Encryption reduces inherent security threats and vulnerabilities.
 - Lesson: Code solves problems and adds technological value at the root level.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Usage](#usage)
 - [Credits](#credits)
